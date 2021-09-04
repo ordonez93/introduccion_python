@@ -6,4 +6,11 @@ iniciamos por primera vez
 - git commit -m 'iniciamos repositorio'
 - git branch -M main
 - git remote add origin https://github.com/ordonez93/introduccion_python.git
-- git push -u origin main => cuando el proyecto ya esta creado
+- git push -u origin main 
+cuando el proyecto ya esta creado
+- git add . 
+- git commit - m 'mensaje para el commit'
+- git push 
+
+como clonar un repositorio
+- git clone https://github.com/ordonez93/introduccion_python.git
