@@ -12,5 +12,5 @@ cuando el proyecto ya esta creado
 - git commit - m 'mensaje para el commit'
 - git push 
 
-como clonar un repositorio
+como clonar un repositorio (desde ventana de power shell)
 - git clone https://github.com/ordonez93/introduccion_python.git
